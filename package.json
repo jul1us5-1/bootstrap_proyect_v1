@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap_proyect_v1",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de NodeJs",
+  "homepage": "https://github.com/jul1us5-1/bootstrap_proyect_v1#readme",
+  "bugs": {
+    "url": "https://github.com/jul1us5-1/bootstrap_proyect_v1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jul1us5-1/bootstrap_proyect_v1.git"
+  },
+  "license": "ISC",
+  "author": "Julio Junco",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
